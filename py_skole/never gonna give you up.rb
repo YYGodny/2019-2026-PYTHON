@@ -1,0 +1,222 @@
+play :B, release: 0.5
+sleep(0.5)
+play :Cs5, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :D5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :Cs5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.2)
+play :A, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.5)
+play :Cs5, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.5)
+play :A5, release: 0.5
+sleep(0.5)
+play :A5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.5)
+play :Cs5, release: 0.5
+sleep(0.2)
+play :D5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :Cs5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :Cs5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.2)
+play :A, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.2)
+play :Cs5, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.2)
+play :E5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.2)
+play :Fs5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :Fs5, release: 0.5
+sleep(0.2)
+play :D5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :Fs5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.2)
+play :A, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.2)
+play :Cs5, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.5)
+play :B, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.2)
+play :Fs5, release: 0.5
+sleep(0.2)
+play :E5, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :Fs5, release: 0.5
+sleep(0.5)
+play :Fs5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :Cs5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.2)
+play :Cs5, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.2)
+play :E5, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :Fs5, release: 0.5
+sleep(0.5)
+play :Fs5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :A5, release: 0.5
+sleep(0.5)
+play :Cs5, release: 0.5
+sleep(0.2)
+play :D5, release: 0.5
+sleep(0.2)
+play :Cs5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.2)
+play :B, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :Cs5, release: 0.5
+sleep(0.2)
+play :A, release: 0.5
+sleep(0.5)
+play :A, release: 0.5
+sleep(0.5)
+play :E5, release: 0.5
+sleep(0.5)
+play :D5, release: 0.5
+sleep(0.5)

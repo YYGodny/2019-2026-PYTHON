@@ -1,0 +1,5 @@
+v0 = float(input('skriv inn startfart i m/s: '))
+v = float(input('skriv inn sluttfart i m/s: '))
+t = float(input('skriv inn tid i s: '))
+a = (v0-v)/(0-t)
+print(f'akselerasjonen er {a}m/s^2')
